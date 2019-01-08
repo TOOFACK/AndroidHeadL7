@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidHeadL7</string>
+    <string-array name="Menu">
+        <item>Drinks</item>
+        <item>Food</item>
+        <item>Stores</item>
+    </string-array>
+</resources>
